@@ -24,8 +24,8 @@ Dean's Message Information On behalf of faculty members and staff of the College
 The College of Science and Technology (CoST) was established at the same time as the The University of Cambodia in 2013.B </p>
 <h2 style="background-color:darkblue; color: white;border2px solid green;font-family:DaunPenh;font-size 250%; text align center;">Computer Lab</h2>
 <img src="A2.html/Lab1.jpg" width="300" height="200"
-<img src="A2.html/Lap2.jpg" width="300" height="200"
-<img src="A2.html/Lap3.jpg" width="300" height="200"<br>
+<img src="A2.html/Lab2.jpg" width="300" height="200"
+<img src="A2.html/Lab3.jpg" width="300" height="200"<br>
 </body>
 <footer>
 <img src="images/icon.jpg" width="50" height="50">
